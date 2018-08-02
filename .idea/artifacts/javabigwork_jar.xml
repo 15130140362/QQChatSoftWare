@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="javabigwork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javabigwork_jar</output-path>
+    <root id="archive" name="javabigwork.jar">
+      <element id="module-output" name="javabigwork" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/pop3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/dsn-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/imap-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/smtp-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/gimap-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/mailapi-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/email_jar/commons-email-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mchange/mchange-commons-java/0.2.11/mchange-commons-java-0.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.5/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/阿里大鱼/taobao-sdk-java-auto_1455552377940-20160607.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/阿里大鱼/aliyun-java-sdk-core-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/阿里大鱼/aliyun-java-sdk-dysmsapi-1.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: net.sf.json-lib:json-lib:2.4" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.9-rc/mysql-connector-java-8.0.9-rc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/java-jar/gson/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mchange/c3p0/0.9.5.2/c3p0-0.9.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
